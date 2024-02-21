@@ -3157,8 +3157,6 @@ export class UsersService {
 
 Again with the Angular.  If you think classes are gross, this option may not be for you.
 
-A note on [decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators), these have actually just been added to TypeScript 5, so not a bad thing getting used to them if you're interested in Typescript.
-
 The controller doesn't really need to be modified much at all.  Mainly the ids might be a combination of numbers and letters, so we do this:
 
 ```js
@@ -3406,3 +3404,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Thanks
